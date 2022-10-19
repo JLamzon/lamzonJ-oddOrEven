@@ -3,50 +3,39 @@
 //GitHubChallenge - Redo mini Challenges
 //odd or even - data validation and play again 
 
-
+Console.Clear();
 string playAgain = "yes";
 
 while (playAgain != "no")
 {
-    
     string userNumber;
-    //this int will be used to verify a number
-    int validNum = 0;
-    // 
     int numBer;
     bool isNumber;
 
-    while (isNumber = true)
+    while (true)
     {
+        int validNum = 0;
         Console.WriteLine("Give number and I will tell you if its odd or even!");
-
         //this string will be what used to get user input
         userNumber = Console.ReadLine();
         isNumber = Int32.TryParse(userNumber, out validNum);
 
-        //Checks
-        if (isNumber == true)
+        if (isNumber == false)
         {
-            numBer = Int32.Parse(userNumber);
-
-            if (numBer % 2 == 0)
-            {
-                Console.WriteLine("You chose a even number");
-                break;
-            }
-            else
-            {
-                Console.WriteLine("You chose a odd number");
-                break;
-            }
+            Console.WriteLine("Try again...");
         }
-        else
+        else if (validNum % 2 == 0)
         {
-            Console.WriteLine("You didn't write a number try again!");
+            Console.WriteLine("You chose a even number");
+            break;
         }
-
+        else if (validNum % 2 == 1)
+        {
+            Console.WriteLine("You chose a odd number");
+            break;
+        }
     }
     Console.WriteLine("Try again? press any key or type no");
-    playAgain = Console.ReadLine();
+    playAgain = Console.ReadLine().ToLower();
 }
 Console.WriteLine("Thanks for playing!");

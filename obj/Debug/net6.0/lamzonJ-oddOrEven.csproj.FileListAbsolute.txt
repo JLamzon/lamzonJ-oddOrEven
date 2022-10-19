@@ -1,0 +1,15 @@
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/bin/Debug/net6.0/lamzonJ-oddOrEven
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/bin/Debug/net6.0/lamzonJ-oddOrEven.deps.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/bin/Debug/net6.0/lamzonJ-oddOrEven.runtimeconfig.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/bin/Debug/net6.0/lamzonJ-oddOrEven.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/bin/Debug/net6.0/lamzonJ-oddOrEven.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/lamzonJ-oddOrEven.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/lamzonJ-oddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/lamzonJ-oddOrEven.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/lamzonJ-oddOrEven.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/lamzonJ-oddOrEven.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/lamzonJ-oddOrEven.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/refint/lamzonJ-oddOrEven.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/lamzonJ-oddOrEven.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/lamzonJ-oddOrEven.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/Debug/net6.0/ref/lamzonJ-oddOrEven.dll
