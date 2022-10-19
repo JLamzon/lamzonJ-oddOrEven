@@ -9,16 +9,17 @@ string playAgain = "yes";
 while (playAgain != "no")
 {
     string userNumber;
-    int numBer;
     bool isNumber;
 
     while (true)
     {
-        int validNum = 0;
+        
+        long validNum = long.MaxValue;
+
         Console.WriteLine("Give number and I will tell you if its odd or even!");
         //this string will be what used to get user input
         userNumber = Console.ReadLine();
-        isNumber = Int32.TryParse(userNumber, out validNum);
+        isNumber = Int64.TryParse(userNumber, out validNum);
 
         if (isNumber == false)
         {
