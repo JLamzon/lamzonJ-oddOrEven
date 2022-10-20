@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/user/.nuget/packages/": {}
+    "C:\\Users\\petec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/lamzonJ-oddOrEven.csproj",
+      "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\lamzonJ-oddOrEven\\lamzonJ-oddOrEven.csproj",
       "projectName": "lamzonJ-oddOrEven",
-      "projectPath": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/lamzonJ-oddOrEven.csproj",
-      "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-oddOrEven/obj/",
+      "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\lamzonJ-oddOrEven\\lamzonJ-oddOrEven.csproj",
+      "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\lamzonJ-oddOrEven\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/user/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
